@@ -4,4 +4,4 @@
 [submodule "libqrencode"]
 	path = libqrencode
 	url = https://github.com/fukuchi/libqrencode.git
-	branch = 4.0.0
+	branch = 4.0
